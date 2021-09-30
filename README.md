@@ -15,10 +15,8 @@ ELYIP is a framework for the stable operation, development and improvement of th
 
 All ELYFI Improvement Proposals and their status are archived in this repository. 
 
-## ELYIP Template
-- https://github.com/elysia-dev/ELYIPs/tree/main/Template
-
 ## Resources
+- [ELYIP Template](https://github.com/elysia-dev/ELYIPs/tree/main/Template)
 - [ELYFI ELYIPs Forum](https://forum.elyfi.world/c/elyip/14)
 - [ELYFI Governance FAQ](https://elysia.gitbook.io/elyfi-governance-faq/)
 - [ELYFI Docs](https://elyfi-docs.elysia.land/v/eng/)
