@@ -5,6 +5,7 @@ Here is a template for the ELYIP. When you request for comment and poll, you mus
 # Introduction
 > ELYIP#: < number to be assigned by Helper. At the RFCP stage, it will be represented as ‘#’. >
 > Title: < Title of the proposal >
+> Network: < Ethereum or BSC >
 > Author: < Athors’ name >
 > Helper: < the list of names of the ones who helped the author in the Helper group >
 > Status: < Status of the proposals >
