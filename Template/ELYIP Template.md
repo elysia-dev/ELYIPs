@@ -1,4 +1,4 @@
-*(updated: Septermber 24, 2021)*
+*(updated: January 17, 2022)*
 
 Here is a template for the ELYIP. When you request for comment and poll, you must write the proposals according to the template.
 
