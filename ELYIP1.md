@@ -5,7 +5,7 @@
 > Network: Binance Smart Chain 
 > Author: [won](https://forum.elyfi.world/u/won/summary)
 > Helper: [Jong](https://forum.elyfi.world/u/jong/summary)
-> Status: Comment and Poll
+> Status: ELYIP Response
 > Date Created: 2022-01-17
 > Date Updated: 2022-01-17
 
