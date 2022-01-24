@@ -21,7 +21,7 @@ The proposal for this governance vote is as follows.
 
 The deposit APY of ELYFI protocol can be increased by automatically investing virtual assets deposited in ELYFI money pool into other DeFi money pools. An example of DeFi is the Anchor Protocol on the Terra network.
 
-It is expected that the target APY can be raised to a maximum of 8.75% through the automatic operation of DeFi. This can provide higher returns to the existing ELYFI users. In addition, the higher deposit APY compared to that of other DeFi will be an incentive to lead potential depositors to ELYFI money pool.
+It is expected that the target APY can be raised to a maximum of 10% through the automatic operation of DeFi. This can provide higher returns to the existing ELYFI users. In addition, the higher deposit APY compared to that of other DeFi will be an incentive to lead potential depositors to ELYFI money pool.
 
 # Background Information
 The ELYFI protocol provides deposit interest to money pool depositors through interest on loans that are currently secured by loan receivables. However, due to the nature of the DeFi protocol, it is not easy to generate a loan from the money pool in the beginning. In order to increase the initial protocol deposit, ELYFI is offering an attractive rate of return by paying ELFI tokens as rewards in addition to interest on the deposit. However, from the depositor's point of view, it is necessary to increase the deposit APY itself, which is the essence of the DeFi protocol, to create an incentive to invest in the long term.
@@ -32,7 +32,7 @@ The Elysia team introduces the Vault concept to the soon-to-be-opened BSC money 
 ### Vault Structure
 
 The first money pool to be opened on the BSC mainnet is BUSD. We propose the following vault structure for the safety of fund management and the maximization of profits for investors.
-![Vault Structure|690x322](upload://7BO6jfoKfYcNR4e0b3wWD4GOw23.jpeg)
+![image](https://user-images.githubusercontent.com/90824532/150732833-380b9a11-947f-4941-aa36-20b957d221b1.png)
 
 
 
@@ -49,13 +49,14 @@ The schematic logic of DeFi automatic operation is as follows.
 
 The target investment ratio and target APY for each real estate mortgage and DeFi automatic investment sector of the lending company are as follows.
 
-![Target ratio and APY|690x320](upload://5Jwi425Kv3oSSljgbWGl9581O1f.png)
+![image](https://user-images.githubusercontent.com/90824532/150732886-3a0c9032-d90b-4b3e-b7ef-25a07ddc5eeb.png)
+
 
 
 
 In other words, the target average APY of the lending company is 15.7%, and 3.2% is set for currency hedging and reserve storage. This will allow 12.5% of APY to go back to the money pool.
 
-In consideration of liquidity, the target U value of the money pool is 0.7 (only 70% of the money pool supply is operated). Through this, the target **Deposit APY** returned to the depositors is 12.5% * 0.7 = **8.75%**.
+In consideration of liquidity, the target U value of the money pool is 0.8 (only 80% of the money pool supply is operated). Through this, the target **Deposit APY** returned to the depositors is 12.5% * 0.8 = **10%**.
 
 
 ### Comparison of Deposit APY(Supply APY) with other DeFis
