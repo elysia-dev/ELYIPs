@@ -48,8 +48,7 @@ The schematic logic of DeFi automatic operation is as follows.
 ### Target investment ratio and APY
 
 The target investment ratio and target APY for each real estate mortgage and DeFi automatic investment sector of the lending company are as follows.
-
-![image](https://user-images.githubusercontent.com/90824532/150732886-3a0c9032-d90b-4b3e-b7ef-25a07ddc5eeb.png)
+![Target](https://user-images.githubusercontent.com/90824532/150733883-038ff784-510b-4717-9f36-c52f53f25c99.png)
 
 
 
@@ -61,8 +60,7 @@ In consideration of liquidity, the target U value of the money pool is 0.8 (only
 
 ### Comparison of Deposit APY(Supply APY) with other DeFis
 *(as of 2022.01.17)*
-![Comparison](https://user-images.githubusercontent.com/90824532/150732009-5c67d4f7-38eb-4080-8c69-f4e4cbd6df9e.png)
-
+![Comparison](https://user-images.githubusercontent.com/90824532/150733891-06797be8-a5e6-4fb5-b419-1f3cae502438.png)
 
 
 ### Others
