@@ -1,20 +1,18 @@
 # Introduction
----
-> ELYIP#: 1
-> Title: Governance Vote on Introduction of Vault concept in BSC Mainnet Money Pool
-> Network: Binance Smart Chain 
-> Author: [won](https://forum.elyfi.world/u/won/summary)
-> Helper: [Jong](https://forum.elyfi.world/u/jong/summary)
-> Status: ELYIP Response
-> Date Created: 2022-01-17
-> Date Updated: 2022-01-17
+
+>- ELYIP#: 1
+>- Title: Governance Vote on Introduction of Vault concept in BSC Mainnet Money Pool
+>- Network: Binance Smart Chain 
+>- Author: [won](https://forum.elyfi.world/u/won/summary)
+>- Helper: [Jong](https://forum.elyfi.world/u/jong/summary)
+>- Status: ELYIP Response
+>- Date Created: 2022-01-17
+>- Date Updated: 2022-01-17
 
 # Short Summary
----
 This proposal includes an improvement plan that can provide high deposit APY to investors depositing in the soon-to-open BSC network money pool.
 
 # Paragraph Summary
----
 The proposal for this governance vote is as follows.
 
 1. To open BUSD money pool (BSC mainnet) with Vault concept applied
@@ -26,13 +24,11 @@ The deposit APY of ELYFI protocol can be increased by automatically investing vi
 It is expected that the target APY can be raised to a maximum of 8.75% through the automatic operation of DeFi. This can provide higher returns to the existing ELYFI users. In addition, the higher deposit APY compared to that of other DeFi will be an incentive to lead potential depositors to ELYFI money pool.
 
 # Background Information
----
 The ELYFI protocol provides deposit interest to money pool depositors through interest on loans that are currently secured by loan receivables. However, due to the nature of the DeFi protocol, it is not easy to generate a loan from the money pool in the beginning. In order to increase the initial protocol deposit, ELYFI is offering an attractive rate of return by paying ELFI tokens as rewards in addition to interest on the deposit. However, from the depositor's point of view, it is necessary to increase the deposit APY itself, which is the essence of the DeFi protocol, to create an incentive to invest in the long term.
 
 The Elysia team introduces the Vault concept to the soon-to-be-opened BSC money pool, and proposes a way to increase ELYFI's deposit APY by automatically investing in other DeFis.
 
 # Proposal details
----
 ### Vault Structure
 
 The first money pool to be opened on the BSC mainnet is BUSD. We propose the following vault structure for the safety of fund management and the maximization of profits for investors.
@@ -64,7 +60,7 @@ In consideration of liquidity, the target U value of the money pool is 0.7 (only
 
 ### Comparison of Deposit APY(Supply APY) with other DeFis
 *(as of 2022.01.17)*
-![Comparison of Deposit APY with other DeFis|690x323](upload://tceHjgAoXan4JKMWt3H1A2BbylJ.png)
+![Comparison](https://user-images.githubusercontent.com/90824532/150732009-5c67d4f7-38eb-4080-8c69-f4e4cbd6df9e.png)
 
 
 
@@ -73,6 +69,5 @@ In consideration of liquidity, the target U value of the money pool is 0.7 (only
 **In addition to Deposit APY, Mining APY is also generated.** About 16,667 ELFI tokens are mined per day in the BUSD moneypool, which is distributed according to the share of Moneypool Supply.
 
 ## Reference
----
 * [Elysia Medium](https://medium.com/elysia-magazine/governance-vote-on-introduction-of-vault-concept-in-bsc-mainnet-money-pool-c10549218f9b)
 * [Anchor Protocol](https://www.anchorprotocol.com/)
